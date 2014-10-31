@@ -1,17 +1,7 @@
-| title=Moon }}
+**月球**是你能够通过[一级火箭](Tier 1 Rocket "wikilink")到达的第一个天体。它的表面上布满了灰色的方块。月面原本是十分平滑的，但月面上充满了由陨石砸出的陨石坑。当你在月球上走动的时候，你的身后将会留下脚印。
+[陨石](Fallen Meteor "wikilink") 可能在月球上掉落
 
-The **Moon** is the first celestial body that you can reach by using a
-[Tier 1 Rocket](Tier 1 Rocket "wikilink"). Its surface consists of
-grayish blocks and is quite flat and bombarded with craters. As you walk
-on the surface footprints are left behind.
-[Meteors](Fallen Meteor "wikilink") may fall on the Moon.
-
-The Moon's gravity is 18% of [The Overworld](The Overworld "wikilink")'s
-and affects players, mobs, arrows and dropped items. The fall damage is
-also 18% of Overworld's; you need to fall more than 16 m to start
-getting fall damage, unlike the 3 m on the Overworld
-(`3 m / 0.18 ≈ 16.67 m`), and more than 127 m for a fatal fall
-(`(20 HP / 0.18) + 16.67 m ≈ 127.78 m`).
+月球的重力为[主世界](/Overworld.md)的18%，重力影响玩家、怪物、弓箭和掉落的物品。掉落伤害同样是主世界的18%，不同于主世界的3格，你需要至少从16格以上的高度掉下才会受到掉落伤害 (`3 m / 0.18 ≈ 16.67 m`)，从127米以上掉落将会受到致命的伤害(`(20 生命值 / 0.18) + 16.67 m ≈ 127.78 m`)
 
 The moon is uninhabitable by Overworld creatures due to the lack of
 [Oxygen](Oxygen "wikilink"). On the other hand, you can find [Moon
