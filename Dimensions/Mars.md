@@ -1,64 +1,30 @@
-**Mars** is the second planet ever added to Galacticraft. Its surface
-consists of brownish-reddish blocks and is quite irregular with craters,
-mountains, deep valleys and a special crater which is the entrance for
-the [Mars Dungeon](Mars Dungeon "wikilink"). Unlike on the moon, you do
-not leave footprints. [Meteors](Fallen Meteor "wikilink") may also fall
-on Mars.
+**火星**是第二个加入Galacticraft的星球。表面由棕黄色的方块组成并充满了凹凸不平的弹坑、山峰、深谷和一个通向[火星地牢](Mars Dungeon "wikilink")的特殊坑洞。不同于月球，你将无法在火星表面留下足迹。而且陨石也同样会坠向火星表面。
 
-The gravity on the planet is 38%, so the fall damage is also 38% of
-Overworld's. You need to fall more than 8 meters to start getting fall
-damage, unlike the 3 meters on the Overworld (`3 m / 0.38 ≈ 7.89 m`),
-and more than 60 meters for a fatal fall
-(`(20 HP / 0.38) + 7.89 m ≈ 60.53 m`).
+因为火星的重力只有地球的38%，所以你的坠落伤害同样也只有主世界的38%。相比于在主世界的3米坠落伤害，你至少要从8米（3 米/ 0.38 ≈ 7.89 米）高的位置坠落才会受到坠落伤害。同样，致死摔落至少需要60米（（20 ❤/ 0.38） + 7.89 米）≈ 60.53米`以上。
 
-Just like the [Moon](Moon "wikilink"), Mars has no
-[Oxygen](Oxygen "wikilink"). Living on Mars is harder than living on the
-Moon because there is no water, trees or
-[villages](Moon Village "wikilink") where you can seek protection and
-resources.
+不过，和[月球](Moon "wikilink")不一样，火星是没有[氧气](Oxygen "wikilink")的。在火星上居住要比在月球上更加困难。因为，火星上没有水、树木或者能够为你提供庇护和资源的的[村庄](Moon Village "wikilink")。
 
-Mars's dimension number is -29.
+火星的世界编号是29。
 
-Prerequisites
--------------
+##先决条件
 
-Currently, Mars can only be reached with the use of a [Tier 2
-Rocket](Tier 2 Rocket "wikilink"), as opposed to a [Tier 1
-Rocket](Tier 1 Rocket "wikilink"). Thus, trying to fly to Mars with a
-Tier 1 Rocket is impossible. Tier 2 rocket schematics can be found in
-[moon dungeons](Moon Dungeon "wikilink").
+当前，你只能使用[二级火箭](Tier 2 Rocket "wikilink")而不是[一级火箭](Tier 1 Rocket "wikilink")才能到达火星。因此，使用一级火箭前往火星是不可能的。二级火箭的结构图可以在[月球地牢](Moon Dungeon "wikilink")里找到。
 
-Day-night cycle
----------------
+##日夜更迭
 
-Mars's day-night cycle is synchronized with Overworld's, and is
-therefore 20 minutes long, made up of 10 minutes of daylight and 10
-minutes of night.
+火星的日夜和主世界同步。因此一天有20分钟：其中包括10分钟的日间和10分钟的夜间。
 
-After sunset, the environment darkens but not as much as the Moon's and
-hostile mobs will be able to spawn on surface. Since the sunrise and
-sunset of both planets happen at the same time, the best moment to
-travel to Mars is during the Overworld's dawn (about 1.5 minutes before
-the sunrise), so that you have enough time to set up a quick base on
-Mars before the sunset.
+在日落之后，环境光线将会减弱，不过不至于如同月球一般四处生成攻击性的怪物。因为火星的日出和日落时间和主世界同步，所以前往火星的最佳时间点是主世界的黎明（日出前的1.5分钟左右）。这样你有足够的时间在天黑前建造一个庇身之所。
 
-Due to a bug, the sun and stars are visible only on far-view distance.
-The Overworld is visible though.
+收到一个Bug影响，星星和太阳之只有在将视距调至“远”的情况下才可见。主世界也是这样。
 
-Geological Features
--------------------
+##地貌特征
 
-### Surface
+###地表
 
-The surface of Mars is riddled with craters, tall hills and deep valleys
-and its height may vary sharply from y=50 to y=140. It is covered by
-[Mars Surface Rock](Mars Surface Rock "wikilink") and, underneath it,
-[Mars Sub-Surface Rock](Mars Sub-Surface Rock "wikilink"). The martian
-soil is completely sterile, unless you use a
-[Terraformer](Terraformer "wikilink") to convert it into cultivable
-soil.
+火星的地表充斥着坑洞、高山和深度达50米到140米的深谷。地表由一层[表层岩](Mars Surface Rock "wikilink")和其下面的[浅层岩](Mars Sub-Surface Rock "wikilink")所组成。火星的泥土非常的贫瘠，除非你使用[Terraformer](Terraformer "wikilink")覆盖一层可以种植作物的泥土，否则作物无法生存。
 
-### Underground
+### 地下
 
 The planet's underground features include caves like those of the
 Overworld's and sludge-flooded caves which are large and tall circular
